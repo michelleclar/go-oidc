@@ -1,4 +1,4 @@
-module github.com/michelleclar/scaffold/oidc
+module github.com/michelleclar/go-oidc/main
 
 go 1.21
 
